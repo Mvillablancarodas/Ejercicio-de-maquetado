@@ -1,0 +1,32 @@
+@font-face {
+    font-family: ;
+    src: url(https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2);
+}
+body {
+    margin: 0;
+}
+p {
+    margin-right: 40px;
+}
+h1 {
+    margin: 0px 400px;
+    text-align: center;
+}
+button.redondo {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 0px 20px;
+    height: 32px;
+}
+div#introduction-actions {
+    display: flex;
+    justify-content: center;
+}
+p{
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 0px 20px;
+    height:32px;
+}
